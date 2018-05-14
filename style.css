@@ -1,0 +1,36 @@
+body {
+    color: black;
+}
+
+h1 {
+	text-align: center;
+    color: black;
+}
+
+h2 {
+	text-align: center;
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+#links 
+{
+	text-align:center;
+}
+
+ul {
+  display: inline-block;
+  list-style-type: none;
+  width: 70%;
+  margin: 0;
+  padding: 0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
